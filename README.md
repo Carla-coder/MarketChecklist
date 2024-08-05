@@ -1,4 +1,3 @@
-
 # Market Checklist ( Lista de compras )
 
 ## O que é o Market Checklist?
@@ -12,6 +11,16 @@ Além das funcionalidades básicas de gerenciamento de listas, o Market Checklis
 Outro destaque do Market Checklist é seu design responsivo, que se adapta perfeitamente a diferentes tamanhos de tela, oferecendo uma experiência de uso consistente em smartphones e tablets. Os ícones e botões claros facilitam a navegação e a realização de ações dentro do aplicativo.
 
 Em resumo, o Market Checklist é uma ferramenta essencial para qualquer pessoa que deseja otimizar suas compras de supermercado, economizando tempo e reduzindo o estresse associado ao processo de compras. O Market Checklist se destaca como uma solução moderna e eficaz para o gerenciamento de listas de compras. Chega de perder tempo fazendo sua lista em papel.
+
+- Print das telas
+
+- Web
+
+![pagina web](https://github.com/user-attachments/assets/aa3fc8b3-32d9-407c-8aa8-fc442f64c27a)
+
+- Mobile
+
+![pagina mobile](https://github.com/user-attachments/assets/7056d5b1-0fc6-4cd3-bb34-6f4979868e95)
 
 
 # Funcionalidades
@@ -29,10 +38,6 @@ Em resumo, o Market Checklist é uma ferramenta essencial para qualquer pessoa q
 - **Interface simples**: Interface fácil de usar com ícones e botões claros para cada ação.
 
 - **Responsividade**: Adaptado para diferentes tamanhos de tela, garantindo uma boa experiência tanto em smartphones quanto em tablets.
-
-
-
-
 
 ## Stack utilizada
 
@@ -67,7 +72,6 @@ MarketChecklist/
 └── yarn.lock
 ```
 
-
 # Sessões do Aplicativo
 
 - **Home.js:**
@@ -83,12 +87,6 @@ MarketChecklist/
    - Exibe a mensagem "Criação by Carla Coder 2024" no final da tela, tanto na web quanto no mobile.
 
    
-   
-
-
-
-
-
 # Documentação
 
 - **React Native Documentation:** https://reactnative.dev/docs/getting-started
